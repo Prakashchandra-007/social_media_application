@@ -1,3 +1,16 @@
+
+# Socail Media Application <inspaired by Facebook>
+This Application is a Basic Socail Media Application Designed like Facebook Cloned but basically it Designed only for Software Professionals to share there experice & Chilling Stories to inspaire and motivate future creative coder.
+
+
+
+## Authors
+
+- [@/prakash_cm_007](https://www.linkedin.com/in/prakash-chandra-muduli/)
+
+
+## Installation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Current Features
+
+- Light/dark mode toggle
+- Live previews
+- Responsive Design
+## Features to be Added
+- Posting Dynamic Content
+- Bots
+- Schadule Posting 
+- Weather Info Section
+
+
+## 🔗 Links
+[![portfolio](https://www.linkedin.com/in/prakash-chandra-muduli/)](https://prakashchandramuduli.com/)
+[![linkedin](https://www.linkedin.com/in/prakash-chandra-muduli/)](https://twitter.com/)
+[![twitter](https://twitter.com/prakash_cm_007)](https://twitter.com/)
+
