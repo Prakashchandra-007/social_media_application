@@ -2,10 +2,9 @@
 # Socail Media Application <inspaired by Facebook>
 This Application is a Basic Socail Media Application Designed like Facebook Cloned but basically it Designed only for Software Professionals to share there experice & Chilling Stories to inspaire and motivate future creative coder.
 
-# Linke
-https://prakashchandra-007.github.io/Socail-Media-Applicaiton/
-## Authors
-
+# Link
+(https://prakashchandra-007.github.io/social_media_application/)
+## Software developer
 - [@/prakash_cm_007](https://www.linkedin.com/in/prakash-chandra-muduli/)
 
 
